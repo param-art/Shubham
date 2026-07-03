@@ -1,0 +1,5 @@
+server/
+node_modules/
+.git/
+.github/
+QUICK_START.md
